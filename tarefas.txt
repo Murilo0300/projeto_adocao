@@ -1,2 +1,7 @@
+
+11-09
+-fazer tela de cadastro
+-fazer certificação do CNPJ
+
 31-08
--fazer o navbar das abas
+-fazer o navbar das abas (ok)

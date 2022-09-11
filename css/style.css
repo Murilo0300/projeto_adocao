@@ -1892,8 +1892,8 @@ pre code {
 }
 
 .form-control-cep {
-  display:block;
-  float: left;
+  display:inline-block;
+  
 
   width: 25%;
   height: calc(1.5em + 0.75rem + 2px);
