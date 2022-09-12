@@ -1977,6 +1977,13 @@ pre code {
   transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
 }
 
+.img-logo{ 
+  float: right;
+ 
+  padding-right: 5%;
+ 
+}
+
 @media (prefers-reduced-motion: reduce) {
   .form-control {
     transition: none;
