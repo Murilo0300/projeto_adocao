@@ -2011,10 +2011,21 @@ pre code {
 }
 
 .img-logo{ 
-  float: right;
+  float: left;
  
   padding-right: 5%;
  
+}
+
+/*tabela do site para cadastro de animais*/
+
+.tabela {
+  width: 100%;
+  background-color: #d4eed9;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+
+
 }
 
 @media (prefers-reduced-motion: reduce) {
